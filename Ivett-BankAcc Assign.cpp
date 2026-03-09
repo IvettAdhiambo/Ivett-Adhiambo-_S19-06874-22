@@ -60,8 +60,6 @@ int main() {
     cout << endl;
     Acc2.withdraw(6000);
     cout<<endl;
-    Acc2.withdraw(2000);
-    cout<<endl;
     printSeparator();
 
     return 0;
